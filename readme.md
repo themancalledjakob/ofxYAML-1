@@ -1,12 +1,10 @@
 # ofxYAML
 
-A wrapper for [yaml-cpp](https://github.com/jbeder/yaml-cpp).
+A wrapper for [yaml-cpp](https://github.com/jbeder/yaml-cpp) 0.6.3
 
-Tested with [OpenFrameworks](http://openframeworks.cc) (0.10.0).
-Works with both macOS Sierra (Xcode 9.4) and Windows (VS 2017).
-On Linux make sure you install `yaml-cpp` according to your distribution's guidelines.
-
-<br />
+Tested with [OpenFrameworks](http://openframeworks.cc) (0.11.0).
+Works with linux64 only.
+PR with osx & windows libraries would be appreciated. 
 
 ### Usage
 
